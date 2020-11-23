@@ -14,7 +14,7 @@ fetch(apiUrl)
 .then(data => console.log(data))
 ```
 
-### For Products under Available categories & Products Search
+### For Products under Available categories
 
 ```
 // CATEGORY SEARCH
@@ -27,7 +27,7 @@ fetch(CategoryUrl)
 .then(data => console.log(data))
 
 ```
-// FOR PRODUCT SEARCH
+### For Product(s) Search
 
 ```
 productName = shoes or any available product name
