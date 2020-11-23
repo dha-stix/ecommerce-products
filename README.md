@@ -46,4 +46,3 @@ fetch(apiUrl)
 
 ```
 
-### Thanks
