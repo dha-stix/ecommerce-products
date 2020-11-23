@@ -5,6 +5,7 @@
 This API contains 100 products under (5) categories namely: **footwears, accessories, home appliances, furnitures and clothings**
 
 
+![Shop Ecommerce Logo](https://neilpatel.com/wp-content/uploads/2015/04/ecommerce.jpg)
 
 
 ## Available Endpoints
@@ -44,3 +45,5 @@ fetch(apiUrl)
 .then(data => console.log(data))
 
 ```
+
+### Thanks
