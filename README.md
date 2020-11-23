@@ -1,9 +1,14 @@
 # Shop Products (v1)
 
+
 ### An open source e-commerce API that provides products for Frontend Developers, for building portfolio projects. 
 This API contains 100 products under (5) categories namely: **footwears, accessories, home appliances, furnitures and clothings**
 
-## AVILABLE ENDPOINTS
+
+
+
+## AVAILABLE ENDPOINTS
+
 
 ### For All Available Products
 ```
