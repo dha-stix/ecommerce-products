@@ -7,7 +7,7 @@ This API contains 100 products under (5) categories namely: **footwears, accesso
 
 
 
-## AVAILABLE ENDPOINTS
+## Available Endpoints
 
 
 ### For All Available Products
