@@ -25,7 +25,7 @@ fetch(apiUrl)
 ```
 // CATEGORY SEARCH
 
- Category = furnitures or accessories or home appliances or furnitures or clothings
+ Category = furnitures or accessories or home appliances or footwears or clothings
 const CategoryUrl =  `https://shop-products.herokuapp.com/api/v1/products/search/{Category}`
 
 fetch(CategoryUrl)
